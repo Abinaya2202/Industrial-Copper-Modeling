@@ -25,7 +25,7 @@ This project requires the following libraries to be installed:
 * Scikit-learn
 * Streamlit
 
-## Getting Started
+## Conclusion
 Clone the repository.
 Install the required libraries.
 Run the Streamlit app using the command: streamlit run app.py.
